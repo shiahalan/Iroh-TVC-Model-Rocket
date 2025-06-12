@@ -1,3 +1,3 @@
 # Iroh: TVC (Thrust Vector Control) Model Rocket
 
-![Uncle Model Rocket Logo](https://github.com/user-attachments/assets/9d6ff0ca-3549-4bcf-8f70-bd36afaf3986)
+![Uncle Model Rocket Logo](https://github.com/user-attachments/assets/ef6a5f23-322d-4e42-a9b7-f53b069b2716)
